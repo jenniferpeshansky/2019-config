@@ -1,0 +1,5 @@
+2019/10/05-13:47:10.938 1010 Reusing MANIFEST /home/jenny/.config/google-chrome/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/05-13:47:10.938 1010 Recovering log #3
+2019/10/05-13:47:10.973 1010 Level-0 table #3: started
+2019/10/05-13:47:11.019 1010 Level-0 table #3: 1284701 bytes OK
+2019/10/05-13:47:11.033 1010 Delete type=0 #3

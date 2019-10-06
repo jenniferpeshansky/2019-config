@@ -1,0 +1,18 @@
+2019/09/26-00:23:36.156 1992 Reusing MANIFEST /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/26-00:23:36.156 1992 Recovering log #16
+2019/09/26-00:23:36.161 1992 Reusing old log /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000016.log 
+2019/09/26-14:23:37.957 2cdd Compacting 1@1 + 1@2 files
+2019/09/26-14:23:38.030 2cdd Generated table #20@1: 104 keys, 968998 bytes
+2019/09/26-14:23:38.030 2cdd Compacted 1@1 + 1@2 files => 968998 bytes
+2019/09/26-14:23:38.041 2cdd compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/09/26-14:23:38.041 2cdd Delete type=2 #5
+2019/09/26-14:23:38.041 2cdd Delete type=2 #18
+2019/09/26-14:50:14.520 2cdd Level-0 table #22: started
+2019/09/26-14:50:14.554 2cdd Level-0 table #22: 4190946 bytes OK
+2019/09/26-14:50:14.565 2cdd Delete type=0 #16
+2019/09/26-17:32:45.807 2cdd Level-0 table #24: started
+2019/09/26-17:32:45.841 2cdd Level-0 table #24: 4251386 bytes OK
+2019/09/26-17:32:45.864 2cdd Delete type=0 #21
+2019/09/27-01:07:29.402 2cdd Level-0 table #26: started
+2019/09/27-01:07:29.452 2cdd Level-0 table #26: 4223410 bytes OK
+2019/09/27-01:07:29.466 2cdd Delete type=0 #23

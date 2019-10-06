@@ -1,3 +1,6 @@
-2019/09/04-20:43:07.203 3f86 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/09/04-20:43:07.203 3f86 Recovering log #19
-2019/09/04-20:43:07.204 3f86 Reusing old log Session Storage/000019.log 
+2019/10/05-23:16:33.486 1c3a Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/10/05-23:16:33.486 1c3a Recovering log #135
+2019/10/05-23:16:33.487 1c3a Reusing old log Session Storage/000135.log 
+2019/10/05-23:16:36.479 1c31 Level-0 table #139: started
+2019/10/05-23:16:36.493 1c31 Level-0 table #139: 21711 bytes OK
+2019/10/05-23:16:36.501 1c31 Delete type=0 #135

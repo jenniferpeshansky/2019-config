@@ -152,9 +152,9 @@ bindsym $mod+Shift+d exec i3-sensible-terminal -e "vim ~/.config/i3/config"
 bindsym Control+$mod+l exec i3lock
 
 #Audio
-bindsym XF86AudioRaiseVolume exec amixer -q set Master 5%+ unmute  
-bindsym XF86AudioLowerVolume exec amixer -q set Master 5%- unmute  
-bindsym XF86AudioMute exec amixer -q set Master mute  
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume 0 +5%  
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume 0 -5%  
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle  
 bindsym XF86AudioPlay exec playerctl play-pause  
 bindsym XF86AudioNext exec playerctl next  
 bindsym XF86AudioPrev exec playerctl previous
@@ -163,13 +163,20 @@ bindsym XF86AudioPrev exec playerctl previous
 bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
 
+#Get rid of touchscreen
+exec --no-startup-id xinput disable 10
+
 #Appearance
-#assign [class="Firefox"] 2
+#sign [class="Firefox"] 2
 #for_window [class="Firefox] border 1pixel
+
+# Screen Shots
+bindsym Print exec --no-startup-id scrot -s 'Screenshot-%Y-%m-%d-%s.jpg' -e 'mv $f ~/Documents/Screenshots'
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
+	#position top
+        status_command /bin/conky-i3bar
 }
 

@@ -5,7 +5,12 @@
             "disable":false,
             "c_executable":"gcc",
             "args":["-Wall"],
-            "I":["${file_path}/../include"]
+            "I":[
+                "${file_path}/../include",
+                "${file_path}/../include/toolsdir",
+                "${file_path}/../../include",
+                "${file_path}/../../include/toolsdir"
+            ]
         }
     }
 }
