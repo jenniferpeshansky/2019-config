@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/home/jenny/jpeshansky/hw3",
 		"/home/jenny/jpeshansky/hw2",
 		"/home/jenny/jpeshansky/hw1",
 		"/home/jenny/research/eSense-Data-Visualiser",
@@ -187,7 +188,7 @@
 			],
 			"find":
 			{
-				"height": 79.0
+				"height": 52.0
 			},
 			"find_in_files":
 			{
@@ -377,7 +378,7 @@
 			{
 			}
 		},
-		"new_window_width": 2383.0
+		"new_window_width": 1057.0
 	},
 	"windows":
 	[
@@ -556,7 +557,7 @@
 			],
 			"find":
 			{
-				"height": 79.0
+				"height": 52.0
 			},
 			"find_in_files":
 			{
@@ -726,7 +727,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,34,2383,1749,3200,1800",
+			"position": "0,0,0,0,0,0,34,1057,1749,3200,1800",
 			"replace":
 			{
 				"height": 96.0

@@ -1,0 +1,982 @@
+{
+	"folder_history":
+	[
+		"/home/jenny/jpeshansky/hw3",
+		"/home/jenny/jpeshansky/hw2",
+		"/home/jenny/jpeshansky/hw1",
+		"/home/jenny/research/eSense-Data-Visualiser",
+		"/home/jenny/jpeshansky"
+	],
+	"last_version": 3207,
+	"last_window_id": 28,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sf_fre",
+						"sf_free_list_heads"
+					],
+					[
+						"new",
+						"new_payload"
+					],
+					[
+						"size",
+						"size_block"
+					],
+					[
+						"is",
+						"is_alloc"
+					],
+					[
+						"all",
+						"allocate"
+					],
+					[
+						"alloca",
+						"allocation_size"
+					],
+					[
+						"coal",
+						"coalesce_block"
+					],
+					[
+						"lE",
+						"LEGAL_OPTIONS"
+					],
+					[
+						"LEGAL_",
+						"legal_options"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"record",
+						"record_size"
+					],
+					[
+						"path",
+						"path_length"
+					],
+					[
+						"mag",
+						"MAGIC2"
+					],
+					[
+						"magic",
+						"MAGIC0"
+					],
+					[
+						"get",
+						"getchar"
+					],
+					[
+						"DI",
+						"DIRECTORY_ENTRY"
+					],
+					[
+						"globa",
+						"global_options"
+					],
+					[
+						"EN",
+						"END_OF_DIRECTORY"
+					],
+					[
+						"END",
+						"END_OF_TRANSMISSION"
+					],
+					[
+						"STA",
+						"START_OF_TRANSMISSION"
+					],
+					[
+						"FILE",
+						"FILE_DATA"
+					],
+					[
+						"Hea",
+						"HEADER_SIZE"
+					],
+					[
+						"deser",
+						"deserialize_directory"
+					],
+					[
+						"Star",
+						"START_OF_TRANSMISSION"
+					],
+					[
+						"Ma",
+						"MAGIC2"
+					],
+					[
+						"pat",
+						"path_length"
+					],
+					[
+						"FI",
+						"FILE_DATA"
+					],
+					[
+						"director",
+						"END_OF_DIRECTORY"
+					],
+					[
+						"serialize_",
+						"serialize_directory"
+					],
+					[
+						"seri",
+						"serialize_directory"
+					],
+					[
+						"EX",
+						"EXIT_FAILURE"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_leak_test.out",
+				"/home/jenny/jpeshansky/hw2/include/datadef.h",
+				"/home/jenny/jpeshansky/hw2/src/options.c",
+				"/home/jenny/jpeshansky/hw2/src/rolo.c",
+				"/home/jenny/jpeshansky/hw2/src/rlist.c",
+				"/home/jenny/jpeshansky/hw2/src/io.c",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/menu.c",
+				"/home/jenny/jpeshansky/hw2/src/menuaux.c",
+				"/home/jenny/jpeshansky/hw2/src/search.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/startup_exit_test.out",
+				"/home/jenny/jpeshansky/hw2/tests/rsrc/search_eof_test.out",
+				"/home/jenny/jpeshansky/hw2/tests.out/search_eof_test.out",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/ctools.h",
+				"/home/jenny/jpeshansky/hw2/src/update.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/unreadable_rolodex_test.out",
+				"/home/jenny/jpeshansky/hw2/src/operations.c",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/args.h",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/args.c",
+				"/home/jenny/jpeshansky/hw2/src/clear.c",
+				"/home/jenny/jpeshansky/hw2/tests/rsrc/startup_exit_test.out",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/ctools.c",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/mem.c",
+				"/home/jenny/jpeshansky/hw2/include/rolofiles.h",
+				"/home/jenny/jpeshansky/hw2/include/rolodefs.h",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/mem.h",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/menu.h",
+				"/home/jenny/jpeshansky/hw2/doc/README",
+				"/home/jenny/jpeshansky/hw1/tests/hw1_tests.c",
+				"/home/jenny/jpeshansky/hw1/src/transplant.c",
+				"/home/jenny/research/eSense-Data-Visualiser/public/images/eSense.png",
+				"/home/jenny/jpeshansky/hw1/include/const.h",
+				"/home/jenny/jpeshansky/hw1/include/transplant.h",
+				"/home/jenny/jpeshansky/hw1/src/main.c",
+				"/home/jenny/jpeshansky/hw1/include/debug.h",
+				"/home/jenny/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/jenny/Canon/cse320/course_tools/README.md"
+			],
+			"find":
+			{
+				"height": 52.0
+			},
+			"find_in_files":
+			{
+				"height": 357.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"get_size",
+					"32",
+					"size_block",
+					"32",
+					"sf_block",
+					"coalesce",
+					"minimum",
+					"entry",
+					"\n             ",
+					"entry",
+					"old_entry",
+					"free",
+					"Enter string to search for: ",
+					"Enter string to search for:",
+					"Select option (? for help): ",
+					"Select option (? for help):",
+					"save_and_exit",
+					"exit",
+					"write_",
+					"n_others = get_n_others",
+					"n_others = get_n_others(entry);\n for (j = 0; j < n_others; j++) {\n     string = get_other_field(j,entry);\n     display_other_field(string);\n  }",
+					"n_others",
+					"n_oth",
+					"interactive_",
+					"entry",
+					"rmatch",
+					"Begin_Rlist",
+					"rlist",
+					"rmatch",
+					"rlist",
+					"rmatch",
+					"find . -name core",
+					"find .-name core",
+					"core",
+					"response",
+					"line",
+					"response",
+					"args.h",
+					"read_only",
+					"option_present",
+					"option_prese",
+					"options_present",
+					"home_dir",
+					"getenv",
+					"OTHERUSERFLAG",
+					"option_to_i",
+					"dash_options",
+					"option_present",
+					");\n",
+					"parameter",
+					"return",
+					"search_strin",
+					"/gene/",
+					"gene",
+					"basicdata",
+					"set_basic_rolo_field",
+					"\n#",
+					"timestring",
+					"rolo_add",
+					"get_basic_rolo_field",
+					"add_entry",
+					"response\ta",
+					"response",
+					" basicdata",
+					" basic",
+					"rlink",
+					"rolo_add",
+					"interactive_rolo",
+					"get_entry",
+					"rolo_add",
+					"get_basic_rolo_field",
+					"get_basic_",
+					"display_basic_field",
+					"rolo_emalloc",
+					"interactive_rolo",
+					"rolo_add",
+					"rolo_emalloc",
+					")++",
+					"static",
+					");\n",
+					"}\n",
+					";\n",
+					"display_list_of_entries",
+					"menu_yes",
+					"va_dcl",
+					"int",
+					"rololib",
+					"rololock",
+					"int i",
+					"i",
+					"int",
+					"save_and_exit",
+					"rolo_menu_yes_no",
+					"cathelpfile",
+					"user_eof",
+					"getline *\\(",
+					"getline[ *](",
+					"getline(",
+					"getline (",
+					"getline",
+					"int getline",
+					"getline",
+					"malloc",
+					"libdir(helpfile), subject, 1",
+					"cathelpfile",
+					"user_eof",
+					"nocase",
+					"getline"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 96.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 479.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"insert",
+						"insert_into_freelist"
+					],
+					[
+						"sf_fre",
+						"sf_free_list_heads"
+					],
+					[
+						"new",
+						"new_payload"
+					],
+					[
+						"size",
+						"size_block"
+					],
+					[
+						"is",
+						"is_alloc"
+					],
+					[
+						"all",
+						"allocate"
+					],
+					[
+						"alloca",
+						"allocation_size"
+					],
+					[
+						"coal",
+						"coalesce_block"
+					],
+					[
+						"lE",
+						"LEGAL_OPTIONS"
+					],
+					[
+						"LEGAL_",
+						"legal_options"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"record",
+						"record_size"
+					],
+					[
+						"path",
+						"path_length"
+					],
+					[
+						"mag",
+						"MAGIC2"
+					],
+					[
+						"magic",
+						"MAGIC0"
+					],
+					[
+						"get",
+						"getchar"
+					],
+					[
+						"DI",
+						"DIRECTORY_ENTRY"
+					],
+					[
+						"globa",
+						"global_options"
+					],
+					[
+						"EN",
+						"END_OF_DIRECTORY"
+					],
+					[
+						"END",
+						"END_OF_TRANSMISSION"
+					],
+					[
+						"STA",
+						"START_OF_TRANSMISSION"
+					],
+					[
+						"FILE",
+						"FILE_DATA"
+					],
+					[
+						"Hea",
+						"HEADER_SIZE"
+					],
+					[
+						"deser",
+						"deserialize_directory"
+					],
+					[
+						"Star",
+						"START_OF_TRANSMISSION"
+					],
+					[
+						"Ma",
+						"MAGIC2"
+					],
+					[
+						"pat",
+						"path_length"
+					],
+					[
+						"FI",
+						"FILE_DATA"
+					],
+					[
+						"director",
+						"END_OF_DIRECTORY"
+					],
+					[
+						"serialize_",
+						"serialize_directory"
+					],
+					[
+						"seri",
+						"serialize_directory"
+					],
+					[
+						"EX",
+						"EXIT_FAILURE"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jenny/jpeshansky/hw3/src/sfmm.c",
+					"settings":
+					{
+						"buffer_size": 8435,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jenny/jpeshansky/hw3/include/sfmm.h",
+					"settings":
+					{
+						"buffer_size": 14794,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jenny/jpeshansky/hw3",
+				"/home/jenny/jpeshansky/hw3/include",
+				"/home/jenny/jpeshansky/hw3/lib",
+				"/home/jenny/jpeshansky/hw3/src",
+				"/home/jenny/jpeshansky/hw3/tests"
+			],
+			"file_history":
+			[
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_leak_test.out",
+				"/home/jenny/jpeshansky/hw2/include/datadef.h",
+				"/home/jenny/jpeshansky/hw2/src/options.c",
+				"/home/jenny/jpeshansky/hw2/src/rolo.c",
+				"/home/jenny/jpeshansky/hw2/src/rlist.c",
+				"/home/jenny/jpeshansky/hw2/src/io.c",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/menu.c",
+				"/home/jenny/jpeshansky/hw2/src/menuaux.c",
+				"/home/jenny/jpeshansky/hw2/src/search.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/startup_exit_test.out",
+				"/home/jenny/jpeshansky/hw2/tests/rsrc/search_eof_test.out",
+				"/home/jenny/jpeshansky/hw2/tests.out/search_eof_test.out",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/ctools.h",
+				"/home/jenny/jpeshansky/hw2/src/update.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/unreadable_rolodex_test.out",
+				"/home/jenny/jpeshansky/hw2/src/operations.c",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/args.h",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/args.c",
+				"/home/jenny/jpeshansky/hw2/src/clear.c",
+				"/home/jenny/jpeshansky/hw2/tests/rsrc/startup_exit_test.out",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/ctools.c",
+				"/home/jenny/jpeshansky/hw2/src/toolsdir/mem.c",
+				"/home/jenny/jpeshansky/hw2/include/rolofiles.h",
+				"/home/jenny/jpeshansky/hw2/include/rolodefs.h",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/mem.h",
+				"/home/jenny/jpeshansky/hw2/include/toolsdir/menu.h",
+				"/home/jenny/jpeshansky/hw2/doc/README",
+				"/home/jenny/jpeshansky/hw1/tests/hw1_tests.c",
+				"/home/jenny/jpeshansky/hw1/src/transplant.c",
+				"/home/jenny/research/eSense-Data-Visualiser/public/images/eSense.png",
+				"/home/jenny/jpeshansky/hw1/include/const.h",
+				"/home/jenny/jpeshansky/hw1/include/transplant.h",
+				"/home/jenny/jpeshansky/hw1/src/main.c",
+				"/home/jenny/jpeshansky/hw1/include/debug.h",
+				"/home/jenny/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/jenny/Canon/cse320/course_tools/README.md"
+			],
+			"find":
+			{
+				"height": 79.0
+			},
+			"find_in_files":
+			{
+				"height": 357.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"split_block",
+					"get_size",
+					"32",
+					"size_block",
+					"32",
+					"sf_block",
+					"coalesce",
+					"minimum",
+					"entry",
+					"\n             ",
+					"entry",
+					"old_entry",
+					"free",
+					"Enter string to search for: ",
+					"Enter string to search for:",
+					"Select option (? for help): ",
+					"Select option (? for help):",
+					"save_and_exit",
+					"exit",
+					"write_",
+					"n_others = get_n_others",
+					"n_others = get_n_others(entry);\n for (j = 0; j < n_others; j++) {\n     string = get_other_field(j,entry);\n     display_other_field(string);\n  }",
+					"n_others",
+					"n_oth",
+					"interactive_",
+					"entry",
+					"rmatch",
+					"Begin_Rlist",
+					"rlist",
+					"rmatch",
+					"rlist",
+					"rmatch",
+					"find . -name core",
+					"find .-name core",
+					"core",
+					"response",
+					"line",
+					"response",
+					"args.h",
+					"read_only",
+					"option_present",
+					"option_prese",
+					"options_present",
+					"home_dir",
+					"getenv",
+					"OTHERUSERFLAG",
+					"option_to_i",
+					"dash_options",
+					"option_present",
+					");\n",
+					"parameter",
+					"return",
+					"search_strin",
+					"/gene/",
+					"gene",
+					"basicdata",
+					"set_basic_rolo_field",
+					"\n#",
+					"timestring",
+					"rolo_add",
+					"get_basic_rolo_field",
+					"add_entry",
+					"response\ta",
+					"response",
+					" basicdata",
+					" basic",
+					"rlink",
+					"rolo_add",
+					"interactive_rolo",
+					"get_entry",
+					"rolo_add",
+					"get_basic_rolo_field",
+					"get_basic_",
+					"display_basic_field",
+					"rolo_emalloc",
+					"interactive_rolo",
+					"rolo_add",
+					"rolo_emalloc",
+					")++",
+					"static",
+					");\n",
+					"}\n",
+					";\n",
+					"display_list_of_entries",
+					"menu_yes",
+					"va_dcl",
+					"int",
+					"rololib",
+					"rololock",
+					"int i",
+					"i",
+					"int",
+					"save_and_exit",
+					"rolo_menu_yes_no",
+					"cathelpfile",
+					"user_eof",
+					"getline *\\(",
+					"getline[ *](",
+					"getline(",
+					"getline (",
+					"getline",
+					"int getline",
+					"getline",
+					"malloc",
+					"libdir(helpfile), subject, 1",
+					"cathelpfile",
+					"user_eof",
+					"nocase",
+					"getline"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jenny/jpeshansky/hw3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jenny/jpeshansky/hw3/src/sfmm.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8435,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2408,
+										2408
+									]
+								],
+								"settings":
+								{
+									"SL.13.region_keys":
+									[
+										"sublime_linter.protected_regions"
+									],
+									"SL.18.region_keys":
+									[
+										"sublime_linter.protected_regions"
+									],
+									"syntax": "Packages/C++/C.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1853.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jenny/jpeshansky/hw3/include/sfmm.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14794,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5223,
+										5223
+									]
+								],
+								"settings":
+								{
+									"SL.14.region_keys":
+									[
+										"SL.gcc.Highlights.|19806fdadcc61ed43ecac14594f432bdb123dd1d5f5898dad474d41f31b7e86c|region.redish markup.error.sublime_linter|32",
+										"SL.gcc.Gutter.|region.redish markup.error.sublime_linter|dot",
+										"sublime_linter.protected_regions"
+									],
+									"SL.24.region_keys":
+									[
+									],
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2190.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 52.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,34,3190,1749,3200,1800",
+			"project": "",
+			"replace":
+			{
+				"height": 96.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 479.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 21,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/jenny/jpeshansky/hw1.sublime-workspace"
+		]
+	}
+}
