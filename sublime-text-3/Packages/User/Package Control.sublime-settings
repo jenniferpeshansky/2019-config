@@ -5,9 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"NeoVintageous",
 		"Package Control",
 		"SublimeLinter",
-		"TrailingSpaces",
-		"SublimeLinter-gcc"
+		"SublimeLinter-gcc",
+		"TrailingSpaces"
 	]
 }
