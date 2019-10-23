@@ -1,0 +1,32 @@
+[
+    { "keys": ["command+k", "command+v"], "context": [{"key": "setting.actual_mode", "operand": true}],  "command": "actual_disable"},
+    { "keys": ["command+k", "command+v"], "context": [{"key": "setting.actual_mode", "operand": false}], "command": "actual_enable"},   
+    { "keys": ["command+k", "command+t"], 
+     "command": "chain",
+  "args": {
+    "commands": [
+      ["toggle_tabs"],
+      ["toggle_status_bar"],
+    ]
+  }},
+    {"keys":["command+k", "command+o"], "command": "terminus_open", "args": {"config_name": "Default","cwd": "${file_path:${folder}}"}},
+    {"keys":["command+k", "command+w"], "command": "destroy_pane" , "args": {"direction"  :"self"}},
+    {"keys":["command+k", "command+w"], "command": "destroy_pane" , "args": {"direction"  :"self"}},
+    {"keys":["command+k", "command+m"], "command": "toggle_minimap" },
+    {"keys":["command+k", "command+l"],  "command": "toggle_setting","args": { "setting": "gutter" } },// { "setting": "line_numbers" } },
+    {"keys":["command+k", "command+k"], "command": "toggle_white_space" },
+    {"keys":["control+up"       ],"command": "select_lines","args": {"forward":false}},
+    {"keys":["control+down"     ],"command": "select_lines","args": {"forward":true}},
+    {"keys":["control+f"        ],"command": "toggle_full_screen"},
+    {"keys":["alt+up"           ],"command": "expand_region" },
+    {"keys":["command+b"        ],"command": "context_goto_definition" },
+    {"keys":["command+alt+left" ],"command": "jump_back" },
+    {"keys":["command+alt+right"],"command": "jump_forward" },
+    {"keys":["alt+w"            ],"command":"toggle_setting","args": {"setting": "word_wrap"}},
+    {"keys":["alt+shift+up"     ],"command": "swap_line_up" },
+    {"keys":["alt+shift+down"   ],"command": "swap_line_down" },
+    {"keys":["shift+enter"      ],"command": "run_macro_file" ,"args":{"file": "res://Packages/Default/Add Line Before.sublime-macro"}},
+    {"keys":["command+backspace"],"command": "run_macro_file" ,"args":{"file": "res://Packages/Default/Delete Line.sublime-macro"    }},
+
+
+  ]

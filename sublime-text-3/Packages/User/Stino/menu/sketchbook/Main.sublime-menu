@@ -1,0 +1,612 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Open Sketch",
+				"id": "stino_sketchbook",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_sketchbook",
+						"command": "stino_refresh_sketchbook"
+					},
+					{
+						"caption": "Change Location...",
+						"id": "stino_change_sketchbook_location",
+						"command": "stino_change_sketchbook_location"
+					},
+					{
+						"caption": "In New Window",
+						"id": "stino_open_in_new_win",
+						"command": "stino_open_in_new_win",
+						"checkbox": true
+					},
+					{
+						"caption": "All Source Files",
+						"id": "stino_open_all_src",
+						"command": "stino_open_all_src",
+						"checkbox": true
+					},
+					{"caption": "-"},					{
+						"caption": "New Sketch...",
+						"id": "stino_new_sketch",
+						"command": "stino_new_sketch"
+					},
+					{"caption": "-"},
+					{
+						"caption": "_",
+						"id": "stino_sketch_cat_5__",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "_iuf_iawbf",
+								"id": "stino_sketch__iuf_iawbf",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/_iuf_iawbf"}
+							}						]
+					},
+					{
+						"caption": "A",
+						"id": "stino_sketch_cat_5_A",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "ADCTouchTest",
+								"id": "stino_sketch_ADCTouchTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/ADCTouchTest"}
+							},
+							{
+								"caption": "adopaposdkpaosd",
+								"id": "stino_sketch_adopaposdkpaosd",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/adopaposdkpaosd"}
+							},
+							{
+								"caption": "aposd",
+								"id": "stino_sketch_aposd",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/aposd"}
+							},
+							{
+								"caption": "asd",
+								"id": "stino_sketch_asd",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/asd"}
+							}						]
+					},
+					{
+						"caption": "C",
+						"id": "stino_sketch_cat_5_C",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "CapSensorTEst",
+								"id": "stino_sketch_CapSensorTEst",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CapSensorTEst"}
+							},
+							{
+								"caption": "Captest2",
+								"id": "stino_sketch_Captest2",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/Captest2"}
+							},
+							{
+								"caption": "CLion",
+								"id": "stino_sketch_CLion",
+								"children":
+								[
+									{"caption": "-"},
+									{
+										"caption": "OriginalTemplate",
+										"id": "stino_sketch_OriginalTemplate",
+										"children":
+										[
+										{
+											"caption": "Open",
+											"id": "stino_open_OriginalTemplate",
+											"command": "stino_open_sketch",
+											"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate"}
+										},											{"caption": "-"},
+											{
+												"caption": "cmake",
+												"id": "stino_sketch_cmake",
+												"children":
+												[
+													{"caption": "-"}												]
+											},
+											{
+												"caption": "cmake-build-debug",
+												"id": "stino_sketch_cmake-build-debug",
+												"children":
+												[
+												{
+													"caption": "Open",
+													"id": "stino_open_cmake-build-debug",
+													"command": "stino_open_sketch",
+													"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate/cmake-build-debug"}
+												},													{"caption": "-"},
+													{
+														"caption": "CMakeFiles",
+														"id": "stino_sketch_CMakeFiles",
+														"children":
+														[
+														{
+															"caption": "Open",
+															"id": "stino_open_CMakeFiles",
+															"command": "stino_open_sketch",
+															"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate/cmake-build-debug/CMakeFiles"}
+														},															{"caption": "-"},
+															{
+																"caption": "3.10.3",
+																"id": "stino_sketch_3.10.3",
+																"children":
+																[
+																	{"caption": "-"},
+																	{
+																		"caption": "CompilerIdC",
+																		"id": "stino_sketch_CompilerIdC",
+																		"children":
+																		[
+																		{
+																			"caption": "Open",
+																			"id": "stino_open_CompilerIdC",
+																			"command": "stino_open_sketch",
+																			"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC"}
+																		},																			{"caption": "-"}																		]
+																	},
+																	{
+																		"caption": "CompilerIdCXX",
+																		"id": "stino_sketch_CompilerIdCXX",
+																		"children":
+																		[
+																		{
+																			"caption": "Open",
+																			"id": "stino_open_CompilerIdCXX",
+																			"command": "stino_open_sketch",
+																			"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX"}
+																		},																			{"caption": "-"}																		]
+																	}																]
+															},
+															{
+																"caption": "uno_CORE.dir",
+																"id": "stino_sketch_uno_CORE.dir",
+																"children":
+																[
+																	{"caption": "-"},
+																	{
+																		"caption": "Applications",
+																		"id": "stino_sketch_Applications",
+																		"children":
+																		[
+																			{"caption": "-"},
+																			{
+																				"caption": "Arduino.app",
+																				"id": "stino_sketch_Arduino.app",
+																				"children":
+																				[
+																					{"caption": "-"},
+																					{
+																						"caption": "Contents",
+																						"id": "stino_sketch_Contents",
+																						"children":
+																						[
+																							{"caption": "-"}																						]
+																					}																				]
+																			}																		]
+																	}																]
+															}														]
+													}												]
+											}										]
+									},
+									{
+										"caption": "OriginalTemplate copy",
+										"id": "stino_sketch_OriginalTemplate copy",
+										"children":
+										[
+										{
+											"caption": "Open",
+											"id": "stino_open_OriginalTemplate copy",
+											"command": "stino_open_sketch",
+											"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate copy"}
+										},											{"caption": "-"},
+											{
+												"caption": "cmake",
+												"id": "stino_sketch_cmake",
+												"children":
+												[
+													{"caption": "-"}												]
+											},
+											{
+												"caption": "cmake-build-debug",
+												"id": "stino_sketch_cmake-build-debug",
+												"children":
+												[
+												{
+													"caption": "Open",
+													"id": "stino_open_cmake-build-debug",
+													"command": "stino_open_sketch",
+													"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate copy/cmake-build-debug"}
+												},													{"caption": "-"},
+													{
+														"caption": "CMakeFiles",
+														"id": "stino_sketch_CMakeFiles",
+														"children":
+														[
+														{
+															"caption": "Open",
+															"id": "stino_open_CMakeFiles",
+															"command": "stino_open_sketch",
+															"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate copy/cmake-build-debug/CMakeFiles"}
+														},															{"caption": "-"},
+															{
+																"caption": "3.10.3",
+																"id": "stino_sketch_3.10.3",
+																"children":
+																[
+																	{"caption": "-"},
+																	{
+																		"caption": "CompilerIdC",
+																		"id": "stino_sketch_CompilerIdC",
+																		"children":
+																		[
+																		{
+																			"caption": "Open",
+																			"id": "stino_open_CompilerIdC",
+																			"command": "stino_open_sketch",
+																			"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate copy/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC"}
+																		},																			{"caption": "-"}																		]
+																	},
+																	{
+																		"caption": "CompilerIdCXX",
+																		"id": "stino_sketch_CompilerIdCXX",
+																		"children":
+																		[
+																		{
+																			"caption": "Open",
+																			"id": "stino_open_CompilerIdCXX",
+																			"command": "stino_open_sketch",
+																			"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/CLion/OriginalTemplate copy/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX"}
+																		},																			{"caption": "-"}																		]
+																	}																]
+															},
+															{
+																"caption": "uno_CORE.dir",
+																"id": "stino_sketch_uno_CORE.dir",
+																"children":
+																[
+																	{"caption": "-"},
+																	{
+																		"caption": "Applications",
+																		"id": "stino_sketch_Applications",
+																		"children":
+																		[
+																			{"caption": "-"},
+																			{
+																				"caption": "Arduino.app",
+																				"id": "stino_sketch_Arduino.app",
+																				"children":
+																				[
+																					{"caption": "-"},
+																					{
+																						"caption": "Contents",
+																						"id": "stino_sketch_Contents",
+																						"children":
+																						[
+																							{"caption": "-"}																						]
+																					}																				]
+																			}																		]
+																	}																]
+															}														]
+													}												]
+											}										]
+									}								]
+							}						]
+					},
+					{
+						"caption": "D",
+						"id": "stino_sketch_cat_5_D",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "DepthSensorTest",
+								"id": "stino_sketch_DepthSensorTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/DepthSensorTest"}
+							},
+							{
+								"caption": "DualTouchModulinPot",
+								"id": "stino_sketch_DualTouchModulinPot",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/DualTouchModulinPot"}
+							}						]
+					},
+					{
+						"caption": "E",
+						"id": "stino_sketch_cat_5_E",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "EndlessTurn",
+								"id": "stino_sketch_EndlessTurn",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/EndlessTurn"}
+							},
+							{
+								"caption": "ESP32CaptivePortalTest",
+								"id": "stino_sketch_ESP32CaptivePortalTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/ESP32CaptivePortalTest"}
+							},
+							{
+								"caption": "ESP32Test",
+								"id": "stino_sketch_ESP32Test",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/ESP32Test"}
+							}						]
+					},
+					{
+						"caption": "F",
+						"id": "stino_sketch_cat_5_F",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "FastChase",
+								"id": "stino_sketch_FastChase",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/FastChase"}
+							},
+							{
+								"caption": "fjgh",
+								"id": "stino_sketch_fjgh",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/fjgh"}
+							}						]
+					},
+					{
+						"caption": "I",
+						"id": "stino_sketch_cat_5_I",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "iohuiu",
+								"id": "stino_sketch_iohuiu",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/iohuiu"}
+							},
+							{
+								"caption": "iug",
+								"id": "stino_sketch_iug",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/iug"}
+							}						]
+					},
+					{
+						"caption": "L",
+						"id": "stino_sketch_cat_5_L",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "LEDs",
+								"id": "stino_sketch_LEDs",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/LEDs"}
+							}						]
+					},
+					{
+						"caption": "M",
+						"id": "stino_sketch_cat_5_M",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "MoudlinPotentiometerTEst",
+								"id": "stino_sketch_MoudlinPotentiometerTEst",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/MoudlinPotentiometerTEst"}
+							},
+							{
+								"caption": "multicap",
+								"id": "stino_sketch_multicap",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/multicap"}
+							}						]
+					},
+					{
+						"caption": "N",
+						"id": "stino_sketch_cat_5_N",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "NeopixelTest",
+								"id": "stino_sketch_NeopixelTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/NeopixelTest"}
+							}						]
+					},
+					{
+						"caption": "P",
+						"id": "stino_sketch_cat_5_P",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "PotentiometerTEst",
+								"id": "stino_sketch_PotentiometerTEst",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/PotentiometerTEst"}
+							}						]
+					},
+					{
+						"caption": "S",
+						"id": "stino_sketch_cat_5_S",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "scrap",
+								"id": "stino_sketch_scrap",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/scrap"}
+							},
+							{
+								"caption": "SerialPyTest",
+								"id": "stino_sketch_SerialPyTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/SerialPyTest"}
+							},
+							{
+								"caption": "ServoTest",
+								"id": "stino_sketch_ServoTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/ServoTest"}
+							},
+							{
+								"caption": "servoThingyRyan_s",
+								"id": "stino_sketch_servoThingyRyan_s",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/servoThingyRyan_s"}
+							},
+							{
+								"caption": "simple_latency_test",
+								"id": "stino_sketch_simple_latency_test",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/simple_latency_test"}
+							},
+							{
+								"caption": "SImpleESP32LedTest",
+								"id": "stino_sketch_SImpleESP32LedTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/SImpleESP32LedTest"}
+							},
+							{
+								"caption": "SimplePotTest",
+								"id": "stino_sketch_SimplePotTest",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/SimplePotTest"}
+							},
+							{
+								"caption": "SimplePotTestOversampled",
+								"id": "stino_sketch_SimplePotTestOversampled",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/SimplePotTestOversampled"}
+							},
+							{
+								"caption": "sketch_aug14a",
+								"id": "stino_sketch_sketch_aug14a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_aug14a"}
+							},
+							{
+								"caption": "sketch_jul15a",
+								"id": "stino_sketch_sketch_jul15a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jul15a"}
+							},
+							{
+								"caption": "sketch_jul15b",
+								"id": "stino_sketch_sketch_jul15b",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jul15b"}
+							},
+							{
+								"caption": "sketch_jul17a",
+								"id": "stino_sketch_sketch_jul17a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jul17a"}
+							},
+							{
+								"caption": "sketch_jun16a",
+								"id": "stino_sketch_sketch_jun16a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jun16a"}
+							},
+							{
+								"caption": "sketch_jun20b",
+								"id": "stino_sketch_sketch_jun20b",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jun20b"}
+							},
+							{
+								"caption": "sketch_jun20c",
+								"id": "stino_sketch_sketch_jun20c",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_jun20c"}
+							},
+							{
+								"caption": "sketch_may03a",
+								"id": "stino_sketch_sketch_may03a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_may03a"}
+							},
+							{
+								"caption": "sketch_may07b",
+								"id": "stino_sketch_sketch_may07b",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_may07b"}
+							},
+							{
+								"caption": "sketch_sep07a",
+								"id": "stino_sketch_sketch_sep07a",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/sketch_sep07a"}
+							}						]
+					},
+					{
+						"caption": "T",
+						"id": "stino_sketch_cat_5_T",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Thingy",
+								"id": "stino_sketch_Thingy",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/Thingy"}
+							}						]
+					},
+					{
+						"caption": "W",
+						"id": "stino_sketch_cat_5_W",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "WebHostLEDDemo",
+								"id": "stino_sketch_WebHostLEDDemo",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/WebHostLEDDemo"}
+							},
+							{
+								"caption": "WIFIWEBTETS",
+								"id": "stino_sketch_WIFIWEBTETS",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/WIFIWEBTETS"}
+							},
+							{
+								"caption": "Writer",
+								"id": "stino_sketch_Writer",
+								"command": "stino_open_sketch",
+								"args": {"sketch_path": "/Users/Ryan/Documents/Arduino/Writer"}
+							}						]
+					}
+				]
+			}
+		]
+	}
+]

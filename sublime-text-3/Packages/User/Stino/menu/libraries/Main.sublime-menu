@@ -1,0 +1,382 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Import Library",
+				"id": "stino_import_library",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_libraries",
+						"command": "stino_refresh_libraries"
+					},
+					{"caption": "-"},
+					{
+						"caption": "A",
+						"id": "stino_library_cat_A",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Adafruit Circuit Playground",
+								"id": "stino_library_Adafruit Circuit Playground",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Adafruit_Circuit_Playground"}
+							},
+							{
+								"caption": "Adafruit MPR121",
+								"id": "stino_library_Adafruit MPR121",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Adafruit_MPR121"}
+							},
+							{
+								"caption": "Adafruit NeoPixel",
+								"id": "stino_library_Adafruit NeoPixel",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Adafruit_NeoPixel"}
+							},
+							{
+								"caption": "ADCTouch",
+								"id": "stino_library_ADCTouch",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/ADCTouch"}
+							},
+							{
+								"caption": "AnalogTouch",
+								"id": "stino_library_AnalogTouch",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/AnalogTouch"}
+							},
+							{
+								"caption": "AppleMIDI",
+								"id": "stino_library_AppleMIDI",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/AppleMIDI"}
+							},
+							{
+								"caption": "MIDI Library",
+								"id": "stino_library_MIDI Library",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/arduino_midi_library"}
+							},
+							{
+								"caption": "AX-12A",
+								"id": "stino_library_AX-12A",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/AX-12A-servo-library"}
+							}						]
+					},
+					{
+						"caption": "B",
+						"id": "stino_library_cat_B",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Bounce2",
+								"id": "stino_library_Bounce2",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Bounce2"}
+							},
+							{
+								"caption": "Bridge",
+								"id": "stino_library_Bridge",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Bridge"}
+							}						]
+					},
+					{
+						"caption": "C",
+						"id": "stino_library_cat_C",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "CapacitiveSensor",
+								"id": "stino_library_CapacitiveSensor",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/CapacitiveSensor"}
+							}						]
+					},
+					{
+						"caption": "D",
+						"id": "stino_library_cat_D",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "DynamixelArduino",
+								"id": "stino_library_DynamixelArduino",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/DynamixelArduino"}
+							}						]
+					},
+					{
+						"caption": "E",
+						"id": "stino_library_cat_E",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Easy NeoPixels",
+								"id": "stino_library_Easy NeoPixels",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Easy_NeoPixels"}
+							},
+							{
+								"caption": "Esplora",
+								"id": "stino_library_Esplora",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Esplora"}
+							},
+							{
+								"caption": "Ethernet",
+								"id": "stino_library_Ethernet",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Ethernet"}
+							}						]
+					},
+					{
+						"caption": "F",
+						"id": "stino_library_cat_F",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "FastRunningMedian",
+								"id": "stino_library_FastRunningMedian",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/FastRunningMedian"}
+							},
+							{
+								"caption": "FifteenStep",
+								"id": "stino_library_FifteenStep",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/FifteenStep"}
+							},
+							{
+								"caption": "Firmata",
+								"id": "stino_library_Firmata",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Firmata"}
+							}						]
+					},
+					{
+						"caption": "G",
+						"id": "stino_library_cat_G",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Gaussian",
+								"id": "stino_library_Gaussian",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Gaussian"}
+							},
+							{
+								"caption": "GSM",
+								"id": "stino_library_GSM",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/GSM"}
+							}						]
+					},
+					{
+						"caption": "H",
+						"id": "stino_library_cat_H",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "HalfDuplexSerial",
+								"id": "stino_library_HalfDuplexSerial",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/HalfDuplexSerial-for-Arduino"}
+							}						]
+					},
+					{
+						"caption": "K",
+						"id": "stino_library_cat_K",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Keyboard",
+								"id": "stino_library_Keyboard",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Keyboard"}
+							}						]
+					},
+					{
+						"caption": "L",
+						"id": "stino_library_cat_L",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "LiquidCrystal",
+								"id": "stino_library_LiquidCrystal",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/LiquidCrystal"}
+							}						]
+					},
+					{
+						"caption": "M",
+						"id": "stino_library_cat_M",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "MIDIUSB",
+								"id": "stino_library_MIDIUSB",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/MIDIUSB"}
+							},
+							{
+								"caption": "Mouse",
+								"id": "stino_library_Mouse",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Mouse"}
+							},
+							{
+								"caption": "movingAvg",
+								"id": "stino_library_movingAvg",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/movingAvg"}
+							},
+							{
+								"caption": "Mozzi",
+								"id": "stino_library_Mozzi",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Mozzi"}
+							}						]
+					},
+					{
+						"caption": "N",
+						"id": "stino_library_cat_N",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Newliquidcrystal_1.3.5",
+								"id": "stino_library_Newliquidcrystal_1.3.5",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Newliquidcrystal_1.3.5"}
+							}						]
+					},
+					{
+						"caption": "R",
+						"id": "stino_library_cat_R",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Robot Control",
+								"id": "stino_library_Robot Control",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Robot_Control"}
+							},
+							{
+								"caption": "Robot Motor",
+								"id": "stino_library_Robot Motor",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Robot_Motor"}
+							},
+							{
+								"caption": "Robot IR Remote",
+								"id": "stino_library_Robot IR Remote",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/RobotIRremote"}
+							}						]
+					},
+					{
+						"caption": "S",
+						"id": "stino_library_cat_S",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "SD",
+								"id": "stino_library_SD",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/SD"}
+							},
+							{
+								"caption": "Servo",
+								"id": "stino_library_Servo",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Servo"}
+							},
+							{
+								"caption": "SmoothADC",
+								"id": "stino_library_SmoothADC",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/SmoothADC"}
+							},
+							{
+								"caption": "SpacebrewYun",
+								"id": "stino_library_SpacebrewYun",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/SpacebrewYun"}
+							},
+							{
+								"caption": "Stepper",
+								"id": "stino_library_Stepper",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Stepper"}
+							}						]
+					},
+					{
+						"caption": "T",
+						"id": "stino_library_cat_T",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "Temboo",
+								"id": "stino_library_Temboo",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/Temboo"}
+							},
+							{
+								"caption": "TFT",
+								"id": "stino_library_TFT",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/TFT"}
+							}						]
+					},
+					{
+						"caption": "W",
+						"id": "stino_library_cat_W",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "WiFi",
+								"id": "stino_library_WiFi",
+								"command": "stino_import_library",
+								"args": {"library_path": "/applications/Arduino.app/Contents/Java/libraries/WiFi"}
+							}						]
+					},
+					{"caption": "-"},
+					{
+						"caption": "HX711_ADC",
+						"id": "stino_library_HX711_ADC",
+						"command": "stino_import_library",
+						"args": {"library_path": "/Users/Ryan/Documents/Arduino/libraries/HX711_ADC"}
+					},
+					{
+						"caption": "Queuetue HX711 Library",
+						"id": "stino_library_Queuetue HX711 Library",
+						"command": "stino_import_library",
+						"args": {"library_path": "/Users/Ryan/Documents/Arduino/libraries/Queuetue_HX711_Library"}
+					}
+				]
+			}
+		]
+	}
+]

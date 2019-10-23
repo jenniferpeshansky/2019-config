@@ -1,6 +1,3 @@
-2019/10/07-18:23:07.482 629a Reusing MANIFEST /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/10/07-18:23:07.482 629a Recovering log #25
-2019/10/07-18:23:07.485 629a Reusing old log /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000025.log 
-2019/10/07-18:42:44.080 18bd Level-0 table #29: started
-2019/10/07-18:42:44.121 18bd Level-0 table #29: 4283774 bytes OK
-2019/10/07-18:42:44.131 18bd Delete type=0 #25
+2019/10/07-22:27:01.451 79a8 Reusing MANIFEST /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/07-22:27:01.451 79a8 Recovering log #28
+2019/10/07-22:27:01.452 79a8 Reusing old log /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000028.log 

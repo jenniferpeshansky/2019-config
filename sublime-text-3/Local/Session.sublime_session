@@ -8,7 +8,7 @@
 		"/home/jenny/jpeshansky"
 	],
 	"last_version": 3207,
-	"last_window_id": 27,
+	"last_window_id": 32,
 	"log_indexing": false,
 	"settings":
 	{
@@ -19,6 +19,74 @@
 			{
 				"selected_items":
 				[
+					[
+						"new",
+						"new_block"
+					],
+					[
+						"get",
+						"get_block_from_payload"
+					],
+					[
+						"need",
+						"needed_size"
+					],
+					[
+						"all",
+						"allocation_size"
+					],
+					[
+						"sf_ma",
+						"sf_magic"
+					],
+					[
+						"pay",
+						"payload_size"
+					],
+					[
+						"gt",
+						"get_epilogue"
+					],
+					[
+						"set_hea",
+						"set_header_and_footer"
+					],
+					[
+						"coale",
+						"coalesce_block"
+					],
+					[
+						"sf_free",
+						"sf_free_list_heads"
+					],
+					[
+						"get_",
+						"get_footer_address"
+					],
+					[
+						"insert",
+						"insert_into_freelist"
+					],
+					[
+						"sf_fre",
+						"sf_free_list_heads"
+					],
+					[
+						"size",
+						"size_block"
+					],
+					[
+						"is",
+						"is_alloc"
+					],
+					[
+						"alloca",
+						"allocation_size"
+					],
+					[
+						"coal",
+						"coalesce_block"
+					],
 					[
 						"lE",
 						"LEGAL_OPTIONS"
@@ -46,10 +114,6 @@
 					[
 						"magic",
 						"MAGIC0"
-					],
-					[
-						"get",
-						"getchar"
 					],
 					[
 						"DI",
@@ -127,6 +191,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 0.0
 			},
@@ -148,8 +224,9 @@
 			},
 			"file_history":
 			[
-				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
 				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_leak_test.out",
+				"/home/jenny/jpeshansky/hw3/src/sfmm.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
 				"/home/jenny/jpeshansky/hw2/include/datadef.h",
 				"/home/jenny/jpeshansky/hw2/src/options.c",
 				"/home/jenny/jpeshansky/hw2/src/rolo.c",
@@ -203,6 +280,33 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"struct",
+					"();\n",
+					"prologue",
+					"errno",
+					"insert_into",
+					"block",
+					"pp",
+					"split_block",
+					"split_b",
+					"expand_heap",
+					"set_header",
+					"set_footer",
+					"set_header",
+					"epilogue",
+					"size_block",
+					"todo",
+					"epilogue",
+					"prologue",
+					"starting",
+					"split_block",
+					"get_size",
+					"32",
+					"size_block",
+					"32",
+					"sf_block",
+					"coalesce",
+					"minimum",
 					"entry",
 					"\n             ",
 					"entry",
@@ -369,16 +473,16 @@
 				"width": 0.0
 			},
 			"show_minimap": false,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 479.0,
+			"side_bar_width": 207.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1057.0
+		"new_window_width": 1056.0
 	},
 	"windows":
 	[
@@ -387,6 +491,74 @@
 			{
 				"selected_items":
 				[
+					[
+						"new",
+						"new_block"
+					],
+					[
+						"get",
+						"get_block_from_payload"
+					],
+					[
+						"need",
+						"needed_size"
+					],
+					[
+						"all",
+						"allocation_size"
+					],
+					[
+						"sf_ma",
+						"sf_magic"
+					],
+					[
+						"pay",
+						"payload_size"
+					],
+					[
+						"gt",
+						"get_epilogue"
+					],
+					[
+						"set_hea",
+						"set_header_and_footer"
+					],
+					[
+						"coale",
+						"coalesce_block"
+					],
+					[
+						"sf_free",
+						"sf_free_list_heads"
+					],
+					[
+						"get_",
+						"get_footer_address"
+					],
+					[
+						"insert",
+						"insert_into_freelist"
+					],
+					[
+						"sf_fre",
+						"sf_free_list_heads"
+					],
+					[
+						"size",
+						"size_block"
+					],
+					[
+						"is",
+						"is_alloc"
+					],
+					[
+						"alloca",
+						"allocation_size"
+					],
+					[
+						"coal",
+						"coalesce_block"
+					],
 					[
 						"lE",
 						"LEGAL_OPTIONS"
@@ -414,10 +586,6 @@
 					[
 						"magic",
 						"MAGIC0"
-					],
-					[
-						"get",
-						"getchar"
 					],
 					[
 						"DI",
@@ -496,6 +664,18 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 0.0
 			},
@@ -517,8 +697,9 @@
 			},
 			"file_history":
 			[
-				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
 				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_leak_test.out",
+				"/home/jenny/jpeshansky/hw3/src/sfmm.c",
+				"/home/jenny/jpeshansky/hw2/tests.out/valgrind_uninitialized_test.out",
 				"/home/jenny/jpeshansky/hw2/include/datadef.h",
 				"/home/jenny/jpeshansky/hw2/src/options.c",
 				"/home/jenny/jpeshansky/hw2/src/rolo.c",
@@ -572,6 +753,33 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"struct",
+					"();\n",
+					"prologue",
+					"errno",
+					"insert_into",
+					"block",
+					"pp",
+					"split_block",
+					"split_b",
+					"expand_heap",
+					"set_header",
+					"set_footer",
+					"set_header",
+					"epilogue",
+					"size_block",
+					"todo",
+					"epilogue",
+					"prologue",
+					"starting",
+					"split_block",
+					"get_size",
+					"32",
+					"size_block",
+					"32",
+					"sf_block",
+					"coalesce",
+					"minimum",
 					"entry",
 					"\n             ",
 					"entry",
@@ -703,17 +911,52 @@
 						0,
 						0,
 						1,
+						2
+					],
+					[
+						0,
+						3,
+						3,
+						4
+					],
+					[
+						2,
+						0,
+						3,
 						1
+					],
+					[
+						1,
+						1,
+						3,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						2,
+						3,
+						3
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.137907036914,
+					0.75,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.886843639054,
+					0.917631816394,
+					0.958815908197,
 					1.0
 				]
 			},
@@ -727,7 +970,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,0,34,1057,1749,3200,1800",
+			"position": "1,0,0,0,0,2134,34,3190,1749,3200,1800",
 			"replace":
 			{
 				"height": 96.0
@@ -764,10 +1007,10 @@
 			{
 			},
 			"show_minimap": false,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 479.0,
+			"side_bar_width": 207.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

@@ -1,3 +1,15 @@
-2019/10/07-22:27:01.451 79a8 Reusing MANIFEST /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/10/07-22:27:01.451 79a8 Recovering log #28
-2019/10/07-22:27:01.452 79a8 Reusing old log /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000028.log 
+2019/10/23-17:14:45.381 785e Reusing MANIFEST /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/23-17:14:45.382 785e Recovering log #28
+2019/10/23-17:14:45.388 785e Reusing old log /home/jenny/.config/chromium/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000028.log 
+2019/10/23-17:27:46.052 13af Level-0 table #32: started
+2019/10/23-17:27:46.089 13af Level-0 table #32: 4512346 bytes OK
+2019/10/23-17:27:46.099 13af Delete type=0 #28
+2019/10/23-17:27:46.100 13af Compacting 4@0 + 1@1 files
+2019/10/23-17:27:46.150 13af Generated table #33@0: 42 keys, 780490 bytes
+2019/10/23-17:27:46.150 13af Compacted 4@0 + 1@1 files => 780490 bytes
+2019/10/23-17:27:46.160 13af compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/23-17:27:46.160 13af Delete type=2 #32
+2019/10/23-17:27:46.160 13af Delete type=2 #26
+2019/10/23-17:27:46.160 13af Delete type=2 #29
+2019/10/23-17:27:46.160 13af Delete type=2 #24
+2019/10/23-17:27:46.160 13af Delete type=2 #22

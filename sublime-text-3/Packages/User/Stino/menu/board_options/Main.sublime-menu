@@ -1,0 +1,45 @@
+[
+	{
+		"caption": "Arduino",
+		"mnemonic": "A",
+		"id": "arduino",
+		"children":
+		[
+			{
+				"caption": "Board Options",
+				"id": "board_options",
+				"children":
+				[
+					{
+						"caption": "Refresh",
+						"id": "stino_refresh_board_options",
+						"command": "stino_refresh_board_options"
+					},
+					{"caption": "-"},
+					{
+						"caption": "Processor",
+						"id": "stino_board_Processor",
+						"children":
+						[
+							{"caption": "-"},
+							{
+								"caption": "ATmega328P",
+								"id": "stino_board_option_ATmega328P",
+								"command": "stino_select_board_option",
+								"args": {"option": "Processor", "value": "ATmega328P"},
+								"checkbox": true
+							},
+							{
+								"caption": "ATmega168",
+								"id": "stino_board_option_ATmega168",
+								"command": "stino_select_board_option",
+								"args": {"option": "Processor", "value": "ATmega168"},
+								"checkbox": true
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

@@ -5,10 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"GitGutter",
 		"NeoVintageous",
+		"Origami",
 		"Package Control",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-gcc",
+		"Terminus",
 		"TrailingSpaces"
 	]
 }
